@@ -1,0 +1,11 @@
+<!DOCTYPE HMTL>
+<html>
+<head>
+<title>Calendar</title>
+</head>
+<body>
+<input type="datetime-local"/>
+<input type="dateTime"/>
+</body>
+</html>
+
