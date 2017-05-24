@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head><title>Practise HTML new elements.datalist</head>
+<body>
+<input type="text" list="colore"/>
+<datalist id="colore">
+	<option value="blue"></option>
+	<option value="red"></option>
+	<option value="green"></option>
+</datalist>
+<input list="dudes"/>
+<datalist id="dudes">
+	<option value="tewer"></option>
+</datalist>
+</body>
+</html>
